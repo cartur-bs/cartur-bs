@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estou aprendendo ReactJS
 - 📫 Me encontre em cartur758@gmail.com
-- 🔍 Veja mais em https://cartur-bs.github.io/Portfolio/
+- 🔍 Veja mais em <a href:'https://cartur-bs.github.io/Portfolio/'> https://cartur-bs.github.io/Portfolio/ </a>
 
 
 <div style="display: inline_block"><br>
