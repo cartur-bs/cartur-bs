@@ -1,7 +1,7 @@
 ### Olá, mundo. Eu sou Carlos Artur
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 JavaScript sólido e me aprimorando em ReactJS
+- 🌱 Habilidades sólidas em JavaScript e me aprimorando em ReactJS
 - 📫 Me encontre em cartur758@gmail.com
 - 🔍 Veja mais em https://cartur-bs.github.io/Portfolio/ 
 
