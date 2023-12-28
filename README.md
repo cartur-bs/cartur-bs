@@ -1,7 +1,7 @@
 ### Olá, mundo. Eu sou Carlos Artur
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Habilidades sólidas em JavaScript e em ReactJS e em desenvolvimento em Java
+- 🌱 Habilidades sólidas em Java e em MySQL e em desenvolvimento em SpringBoot
 - 📫 Me encontre em cartur758@gmail.com
 - 🔍 Veja mais em https://cartur-bs.github.io/Portfolio/ 
 
