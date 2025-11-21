@@ -1,9 +1,8 @@
-### Olá, mundo. Eu sou Carlos Artur
+### Hello world, I`m Carlos Artur
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Habilidades sólidas em Java e em MySQL e em desenvolvimento em SpringBoot
-- 📫 Me encontre em cartur758@gmail.com
-- 🔍 Veja mais em https://cartur-bs.github.io/Portfolio/ 
+- 🔭 Currently working as a full stack developer 
+- 🌱 Solid abilities in Java with and without Springboot, Python and ReactJS
+- 📫 Find me on cartur758@gmail.com
 
 
 <div style="display: inline_block"><br>
