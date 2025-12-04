@@ -1,7 +1,7 @@
 ### Hello world, I'm Carlos Artur
 
-- 🔭 Currently working as a full stack developer 
-- 🌱 Solid abilities in Java with and without Springboot, Python and ReactJS
+- 🔭 Java web developer
+- 🌱 Solid abilities in Java, Springboot, Python and ReactJS
 - 📫 Find me on cartur758@gmail.com
 
 
